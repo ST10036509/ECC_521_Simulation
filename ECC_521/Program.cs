@@ -10,7 +10,6 @@ namespace ECC_521
     {
         static void Main(string[] args)
         {
-            //i changed it
         }
     }
 }
