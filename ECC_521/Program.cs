@@ -14,6 +14,22 @@ namespace ECC_521
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            //run the application
+            run();
+        }
+
+
+
+        //--------------------------------------------------------------------------------------------------
+
+
+
+        /// <summary>
+        /// Method to run the application
+        /// </summary>
+        private static void run()
+        {
+
         }
     }
 }
